@@ -21,7 +21,7 @@
 		<configuration>
 			<suiteXmlFiles>
 				<!-- TestNG suite XML files -->
-				<suiteXmlFile>Testng.xml</suiteXmlFile>
+				<suiteXmlFile>testng.xml</suiteXmlFile>
 			</suiteXmlFiles>
 		 	<testFailureIgnore>false</testFailureIgnore>
 		 	                <!--only for 1.3.* TestNG adapters. Since 1.4.0.RC4, the listener adds via ServiceLoader-->

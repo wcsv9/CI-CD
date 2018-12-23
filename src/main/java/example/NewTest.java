@@ -49,4 +49,5 @@ class RemoteTest {
 
     driver.quit();
   }	
+}
 
